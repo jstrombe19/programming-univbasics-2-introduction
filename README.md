@@ -11,6 +11,8 @@
 
 ## Introduction
 
+I am going to add some random lines so that GitHub will have something to update.
+
 Welcome to Programming as Conversation, Part 2! In this module, we'll be
 enriching the kinds of conversations we have with Ruby. In Part 1 we learned to
 recognize _expressions_ and saw that the data and the operations are
